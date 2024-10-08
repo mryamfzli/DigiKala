@@ -11,6 +11,10 @@ export class BasketService {
   basket:Aboutbasket[]=[]
 
 
+  x() {
+    console.log("Hello");
+  }
+
 
   addTobasket(raket:Aboutbasket){
     this.basket.push(raket)
