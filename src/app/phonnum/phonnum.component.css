@@ -1,0 +1,57 @@
+.totall{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:99vh;
+  
+}
+.logo{
+    width: 200px;
+    margin-top: -80px;
+    margin-right: 115px;
+}
+
+.box{
+    border:rgb(235, 232, 232) 1px solid;
+    width: 30%;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+   align-items:flex-end;
+  padding-top: 90px;
+   height: 400px;
+}
+
+
+.firstline{
+    font-size: larger;
+    font-weight: 600;
+    margin-right: 60px;
+   
+ 
+}
+
+.linetwothree{
+    margin-right: 60px;
+    font-size:small;
+    font-weight: 500;
+    direction: rtl;
+    padding-top: 1px;
+    color: rgb(177, 175, 175);
+    margin-top: 1px;
+}
+.inputphone{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+   align-items: center;
+
+}
+.submit{
+   background-color: rgb(251, 61, 61);
+   color: white;
+}
+.warning{
+    font-size: small;
+    margin-right: 60px;
+}

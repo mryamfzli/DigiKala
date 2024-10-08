@@ -1,0 +1,181 @@
+.imgBox {
+    width: 600px;
+    direction: rtl;
+    margin-top: 20px;
+    margin-right: 20px;
+    height: 550px;
+
+
+}
+
+.picture {
+    width: 800px;
+
+}
+
+.totall {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1534px;
+
+
+}
+
+.shoppingBox {
+    direction: rtl;
+    width: 470px;
+    border: 1px lightgray solid;
+    border-radius: 7px;
+    margin-top: 45px;
+    margin-right: 10px;
+    background-color: rgb(236, 236, 236);
+    height: 500px;
+    margin-left: 20px;
+
+}
+hr{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.first{
+    font-weight: 600;
+    margin: 15px;
+}
+.shop{
+    margin: 15px;
+}
+.second{
+    margin-right: 200px;
+}
+.third{
+    width: 280px;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.fourth{
+    font-size: small;
+    font-weight: 500;
+    margin: 15px;
+    
+}
+.fivth{
+    margin: 15px;
+    font-size: small;
+    color: gray;
+    
+    
+}
+.sixth{
+    margin: 15px;
+    font-size: small;
+    color: gray;
+}
+.seventh{
+    margin: 15px;
+    font-weight: 500;
+}
+.titles {
+    direction: rtl;
+    font-size: larger;
+    font-weight: 600;
+    width: 580px;
+
+}
+
+
+.totallfirst {
+    display: flex;
+
+
+}
+
+.line {
+    margin-top: 27px;
+    margin-left: 10px;
+    color: rgb(217, 218, 219);
+
+
+}
+
+.submit {
+    margin-top: 20px;
+    margin-left: 10px;
+    border: rgb(217, 218, 219) 1px solid;
+    border-radius: 5px;
+    width: 160px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+    font-weight: 700;
+
+
+}
+
+.enter {
+    margin-left: 5px;
+}
+
+.lego {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 230px;
+    margin-right: 20px;
+}
+
+.form {
+    direction: rtl;
+    margin-left: 580px;
+    margin-top: 20px;
+    width: 600px;
+    height: 44px;
+    border-radius: 7px;
+    border: none;
+    background-color: rgb(237, 236, 236);
+}
+
+.basket {
+    margin-top: 25px;
+    margin-left: 20px;
+
+
+}
+
+.detail {
+
+    margin: 6px;
+    width: 200px;
+    height: 30px;
+    background-color: rgb(237, 236, 236);
+    color: gray;
+    font-size: small;
+    font-weight: 600;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+
+    padding-right: 10px;
+    margin-bottom: 0px;
+}
+
+.detailRaket {
+    display: flex;
+
+}
+
+.detailres {
+    margin: 6px;
+    margin-top: 0px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+
+    width: 200px;
+    height: 30px;
+    background-color: rgb(237, 236, 236);
+    color: black;
+    font-size: small;
+    font-weight: 600;
+
+    padding-right: 10px;
+}

@@ -1,0 +1,11 @@
+.totall{
+    display: flex;
+}
+
+img{
+    width: 200px;
+}
+p{
+    font-size: medium;
+    font-weight: 500;
+}

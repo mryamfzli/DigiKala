@@ -1,0 +1,11 @@
+import { Injectable } from '@angular/core';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class PhoneService {
+
+  constructor() { }
+
+ public userphone:string=""
+}
